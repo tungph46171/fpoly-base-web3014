@@ -1,0 +1,21 @@
+{
+    "name": "dell/ns-psr4",
+    "autoload": {
+        "psr-4": {
+            "Dell\\NsPsr4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tungdvph46171",
+            "email": "tungdvph46171@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "eftec/bladeone": "^4.13",
+        "doctrine/dbal": "^4.0",
+        "rakit/validation": "^1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
