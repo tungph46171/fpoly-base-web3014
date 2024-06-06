@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Dell\\NsPsr4\\": "src/"
-        }
+        },
+        "files": [
+            "helper.php"
+        ]
     },
     "authors": [
         {
